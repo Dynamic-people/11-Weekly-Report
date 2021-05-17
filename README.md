@@ -15,7 +15,7 @@
 
 
 <br>
-##### 주문서코드<br>
+#### 주문서코드<br>
 <img src="https://user-images.githubusercontent.com/75411735/118487564-d050ee00-b755-11eb-8192-30a3104da487.png" width="500" height="400">
 
 ##### 주문서가 담겨있는 큐알코드를 앱으로 스캔하면 앱에 해당 카페의 주문서가 보여진다.<br>
