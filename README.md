@@ -15,7 +15,7 @@
 을 마무리하여 전체 프로젝트의 40% 정도 진행되었습니다. 다음주차에는 데이터베이스 연동 및 앱의 추가기능을 생각해볼 예정입니다.
 
 ##### 큐알코드생성 <br>
-<img src="https://user-images.githubusercontent.com/75411735/118488281-8c121d80-b756-11eb-920b-40ed0ec97657.png" width="500" height="400">
+<img src="https://user-images.githubusercontent.com/75411735/118488281-8c121d80-b756-11eb-920b-40ed0ec97657.png" width="300" height="500">
 
 ##### 주문서코드<br>
 <img src="https://user-images.githubusercontent.com/75411735/118487564-d050ee00-b755-11eb-8192-30a3104da487.png" width="500" height="400">
