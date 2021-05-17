@@ -1,5 +1,6 @@
 # 11-Weekly-Report
-교수님 코드 다운받아서 돌려보실때 브랜치를 master로 checkout하시고, sync project with gradle files 버튼을 누르셔야합니다. 카카오연동로그인은 keyhash를 AVD에서 확인가능합니다.
+교수님 코드 다운받아서 돌려보실때 브랜치를 master로 checkout하시고, sync project with gradle files 버튼을 누르셔야합니다. 카카오연동로그인은 노트북마다 keyhash를 입력해야 AVD에서 확인 가능합니다.
+
 
 ### 이번주차 활동
 
